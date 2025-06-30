@@ -1,0 +1,1 @@
+import{d as t,c as s,a as e,o as a,_ as n}from"./index-Bgho3WtG.js";const c={class:"home"},_=t({__name:"NotFound",setup(d){return(r,o)=>(a(),s("div",c,o[0]||(o[0]=[e("h1",null,"404",-1),e("p",null,"你所寻找的页面不存在！",-1)])))}}),l=n(_,[["__scopeId","data-v-ccf5afdc"]]);export{l as default};
