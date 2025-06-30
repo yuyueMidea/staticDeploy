@@ -1,0 +1,1 @@
+import{d as s,c as a,a as e,r as n,o as r,_ as c}from"./index-Bxe6_BSy.js";const _={class:"home"},d=s({__name:"Home",setup(p){const t=()=>{n.push("/login")};return(i,o)=>(r(),a("div",_,[o[0]||(o[0]=e("h2",null,"登录成功！欢迎来到首页",-1)),e("button",{onClick:t},"返回登录")]))}}),m=c(d,[["__scopeId","data-v-76a8ff82"]]);export{m as default};
